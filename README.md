@@ -4,7 +4,7 @@ Here is an example README.md file that provides instructions on how to install, 
 
 #Installation
 ##Clone the repository:
-git clone https://github.com/your-repo/kafka-consumer-service.git
+git clone https://github.com/topfreelancer999/kafka-consumer-service.git
 ##Install dependencies:
 pip install -r requirements.txt
 
